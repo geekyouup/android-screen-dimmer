@@ -1,0 +1,1 @@
+Android application and widget for setting screen to minimum brightness
